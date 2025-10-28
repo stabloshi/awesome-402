@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Awesome x402</h1>
+  <h1 align="center">Awesome 402</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
@@ -12,7 +12,7 @@
     </a>
   </p>
   
-  <p align="center">A curated list of awesome x402 resources, libraries, tools and more.</p>
+  <p align="center">A curated list of awesome resources, libraries, tools and more implementing HTTP 402.</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
   
 </div>
