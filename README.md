@@ -23,6 +23,10 @@
 - [Implementations](#implementations)
     - [x402](#x402)
     - [h402](#h402)
+- [x402 Apps](#x402-apps)
+- [Explorers](#explorers)
+- [Markets](#markets)
+- [Adoption](#adoption)
 
 ## Explainers
 - [CDP's x402 Full Deep Dive](https://www.youtube.com/watch?v=Nodgp7fiPQc)
@@ -43,3 +47,19 @@
 - [Website](https://www.h402.org/) - Official website.
 - [White Paper](https://cdn.h402.xyz/h402.pdf) - White Paper.
 - [Demo](https://github.com/bit-gpt/h402/tree/main/examples/typescript/servers/express#h402-express-example-server) - Demonstration of an Example server running h402-express.
+
+## x402 Apps
+- [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
+- [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
+
+## Explorers
+- [x402scan](https://www.x402scan.com/)
+
+## Markets
+- [CoinGecko x402 Ecosystem](https://www.coingecko.com/en/categories/x402-ecosystem)
+- [GeckoTerminal x204 24hr Trends](https://www.geckoterminal.com/category/x402-protocol)
+
+## Adoption
+- [Google](https://github.com/google-agentic-commerce/a2a-x402)
+- [VISA](https://investor.visa.com/news/news-details/2025/Visa-Introduces-Trusted-Agent-Protocol-An-Ecosystem-Led-Framework-for-AI-Commerce/default.aspx)
+- [CloudFlare](https://developers.cloudflare.com/agents/x402/)
