@@ -23,6 +23,7 @@
 - [Implementations](#implementations)
     - [x402](#x402)
     - [h402](#h402)
+- [Related Proposals](#related-proposals)
 - [x402 Apps](#x402-apps)
 - [Explorers](#explorers)
 - [Markets](#markets)
@@ -47,6 +48,10 @@
 - [Website](https://www.h402.org/) - Official website.
 - [White Paper](https://cdn.h402.xyz/h402.pdf) - White Paper.
 - [Demo](https://github.com/bit-gpt/h402/tree/main/examples/typescript/servers/express#h402-express-example-server) - Demonstration of an Example server running h402-express.
+
+## Related Proposals
+- [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) - Discover agents and establish trust through reputation and validation.
+- [ERC-8048](https://github.com/ethereum/ERCs/pull/1259/) - Updated ERC to ERC-8041, enabling trustless AI agents, proof of personhood, and custom metadata.
 
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
