@@ -20,6 +20,7 @@
 ### Contents
 
 - [Explainers](#explainers)
+- [Tutorials](#tutorials)
 - [Implementations](#implementations)
     - [x402](#x402)
     - [h402](#h402)
@@ -33,6 +34,11 @@
 - [CDP's x402 Full Deep Dive](https://www.youtube.com/watch?v=Nodgp7fiPQc)
 - [nader dabit](https://x.com/dabit3/status/1982483131979735078)
 - [S4mmy.eth](https://x.com/S4mmyEth/status/1981672515844878508?t=37HqYAxBXtBsN8NMlQvsYw&s=35)
+- [Prime Comparison of x402, A2A, ERC-8004, MCP and several ACPs](https://x.com/jlwhoo7/status/1982465180903813229)
+
+## Tutorials
+- [Google A2A x402](https://x.com/dabit3/status/1981777610142367958) - nader dabit's tutorial on building agent using google a2a-x402's TypeScript Port.
+
 
 ## Implementations
 
