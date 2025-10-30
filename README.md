@@ -48,6 +48,7 @@
 - [White Paper](https://www.x402.org/x402-whitepaper.pdf) - White Paper.
 - [Docs](https://x402.gitbook.io/x402) - Documentation.
 - [Demo](https://www.x402.org/protected) - x402 Sample Demo on Base Sepolia.
+- [x402 Bazaar](https://docs.cdp.coinbase.com/x402/bazaar) - Machine-readable catalog of x402-compatible API endpoints.
 
 #### h402
 
@@ -68,7 +69,7 @@
 
 ## Markets
 - [CoinGecko x402 Ecosystem](https://www.coingecko.com/en/categories/x402-ecosystem)
-- [GeckoTerminal x204 24hr Trends](https://www.geckoterminal.com/category/x402-protocol)
+- [GeckoTerminal x402 24hr Trends](https://www.geckoterminal.com/category/x402-protocol)
 
 ## Adoption
 - [Google](https://github.com/google-agentic-commerce/a2a-x402)
