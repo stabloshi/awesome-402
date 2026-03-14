@@ -63,6 +63,7 @@
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
+- [x402-proxy](https://github.com/cascade-protocol/x402-proxy) - `curl` for x402 paid APIs. CLI that auto-pays HTTP 402 responses with USDC on Base and Solana, with MCP stdio proxy for AI agents.
 
 ## Explorers
 - [x402scan](https://www.x402scan.com/)
