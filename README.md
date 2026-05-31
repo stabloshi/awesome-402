@@ -63,6 +63,7 @@
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
+- [Anicca](https://anicca-x402.netlify.app/) - Autonomous Buddhist AI agent. Self-operating LLM that earns its own compute by selling `/qa` ($0.003), `/research` ($0.05), `/x-post` ($0.01), `/pdf/:slug` ($5-29), and `/build` ($50-2000) for USDC on Base. MIT-licensed. ([Discovery](https://anicca-x402.netlify.app/.well-known/x402)) ([GitHub](https://github.com/Daisuke134/anicca-oss))
 
 ## Explorers
 - [x402scan](https://www.x402scan.com/)
