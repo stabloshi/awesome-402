@@ -64,6 +64,7 @@
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Agents call `score_agent(wallet)` free, `get_trust_receipt(wallet)` via x402 micropayment.
 ## Explorers
 - [x402scan](https://www.x402scan.com/)
 
