@@ -61,7 +61,9 @@
 - [ERC-8048](https://github.com/ethereum/ERCs/pull/1259/) - Updated ERC to ERC-8041, enabling trustless AI agents, proof of personhood, and custom metadata.
 
 ## x402 Apps
+
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
+- [Colombia TRM](https://x402.lagaceta.net/trm) — Official Superfinanciera USD/COP TRM as prepaid x402 ($0.005 USDC on Base).
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
 
 ## Explorers
