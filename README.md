@@ -62,6 +62,7 @@
 
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
+- [Base toolbox](https://basetoolbox.cartonpliant.workers.dev) — Uniswap v3 swap preflight, leftover allowances, tx explain, and transfer check on Base via x402 USDC.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
 
 ## Explorers
