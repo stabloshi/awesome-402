@@ -63,6 +63,7 @@
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
+- [Veriton HTML→JSON](https://seed-trek-trainers-ross.trycloudflare.com) - Metered HTML→structured JSON for agents on Base USDC via x402 ($0.02/call body, $0.05 fetch+extract); free demo + prepaid credits. ([Docs](https://veriton-dev.github.io/veriton-micro-dev/api/) | [OpenAPI](https://seed-trek-trainers-ross.trycloudflare.com/v1/openapi.json) | [.well-known/x402](https://seed-trek-trainers-ross.trycloudflare.com/.well-known/x402))
 
 ## Explorers
 - [x402scan](https://www.x402scan.com/)
