@@ -63,6 +63,7 @@
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
+- [HostDeFi](https://hostdefi.com/api/v1/x402/pricing) - x402-payable token-safety API: A+–F grades, risk scores and datasets settle per call in USDC; free `scan_token` MCP tool also available.
 
 ## Explorers
 - [x402scan](https://www.x402scan.com/)
