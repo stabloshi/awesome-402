@@ -63,6 +63,7 @@
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
+- [x402-ping](https://x402-ping.palmbeachpete.workers.dev) - Live Base USDC x402 smoke target: `GET /premium` → HTTP 402 exact **0.05 USDC** on Base (`eip155:8453`) payTo `0xbAd41cF0f0d5442f9A53630F8081BFd257DA019b`; free tip/unlock discovery on `/`. [Unlock](https://shieldz.cash/unlock/NDS0MgohhA3PmPaBvmD0) · [Tip](https://shieldz.cash/tip/tip-d2599a4d16a6f4b0) · [Pages](https://filip-study.github.io/x402-ping/)
 
 ## Explorers
 - [x402scan](https://www.x402scan.com/)
