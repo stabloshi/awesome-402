@@ -61,6 +61,7 @@
 - [ERC-8048](https://github.com/ethereum/ERCs/pull/1259/) - Updated ERC to ERC-8041, enabling trustless AI agents, proof of personhood, and custom metadata.
 
 ## x402 Apps
+- [Vend Browser Agent](https://extract.paypercall.dev/api/v1/browser-agent) — Pay-per-call browser automation and stealth scraping, settled in Nano (XNO) via x402 with no account or API key.
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
 
