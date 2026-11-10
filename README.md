@@ -62,6 +62,7 @@
 
 ## x402 Apps
 - [ad-402](https://ad402.vercel.app/) - Ad Publishers receive payments instantly using x402 protocol.
+- [AuthiChain Signal](https://signal.authichain.com) - Ranked Base launchpad tape sold at 0.01 USDC via x402 v2 exact.
 - [rumourx402](https://www.rumourx402.com/) - Access curated crypto rumours from Rumour.app via micropayments using the x402 protocol.
 
 ## Explorers
